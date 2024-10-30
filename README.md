@@ -16,11 +16,11 @@ Follow these steps to install the project:
 
 1. Clone the repository:
 
-       git clone https://github.com/yourusername/project-name.git
+       git clone https://github.com/yourusername/API-demo.git
 
 2. Navigate to your project directory:
 
-       cd project-name
+       cd API-demo
 
 3. Install dependencies:
    
